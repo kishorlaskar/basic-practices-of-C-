@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1596772406 source:e:\study\c++\myfirstproject\main.cpp
+	<iostream>
+	"Myfirstclass.h"
+
+1596772570 source:e:\study\c++\myfirstproject\src\myfirstclass.cpp
+	"Myfirstclass.h"
+	<iostream>
+
+1596772431 e:\study\c++\myfirstproject\include\myfirstclass.h
+
+1596778055 source:e:\study\c++\constructor_intializer.cpp
+
